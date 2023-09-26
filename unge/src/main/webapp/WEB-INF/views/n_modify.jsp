@@ -35,7 +35,8 @@ border-radius: 5px; background-color: #628E90; line-height: 10px;}
 	<div class="container">
 		<article>
 			<b style="font-size: 40px;">공지사항 수정하기</b>
-			<br><br>
+			<br>
+			<br>
 			
 			<form action="/n_modify" method="post">
 				<div class="title">
